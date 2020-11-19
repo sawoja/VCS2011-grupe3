@@ -1,6 +1,6 @@
 
 <?php include "header.php" ?>
-
+<!-- Edvinas -->
 
 
 <!-- Čia galerijos puslapio vidinė dalis -->

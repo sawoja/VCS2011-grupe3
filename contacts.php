@@ -1,7 +1,7 @@
 
 <?php include "header.php" ?>
 
-
+<!-- Ricardas -->
 
 <!-- Čia kontaktų puslapio vidinė dalis -->
 
