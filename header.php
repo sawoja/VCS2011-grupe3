@@ -19,8 +19,8 @@
     <!-- Čia pasikartojanti visuose puslapiuose viršutinė dalis -->
 
     <nav>
-        <div class="nav-wrapper">
-            <a href="#" class="brand-logo">Logo</a>
+        <div class="nav-wrapper-header">
+        <img src="http://picsum.photos/id/63/50/" alt="Cup of coffee" >
             <ul id="nav-mobile" class="right hide-on-med-and-down">
                 <li><a href="index.php">Home</a></li>
                 <li><a href="about.php">About</a></li>
