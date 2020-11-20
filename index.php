@@ -32,6 +32,12 @@
     
     </div>
 
+    <div class="main-page-media center-align">
+
+    <a data-fancybox="gallery" href="https://www.youtube.com/watch?v=jTx-uBdJ4GM"><img src="https://picsum.photos/id/225/1000/800"></a>
+
+    </div>
+
     
 
 
