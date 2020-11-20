@@ -1,28 +1,46 @@
 /* Bendras stilius: */
 
 /* Pvz., bendras puslapio fonas. */
+
 /* Jei nenorim kad itakotu kitu grupes nariu elementu, naudojam klases!  */
 
-
-
 /* Juste stiliaus kodas: */
+
+.main-page-photo {
+    text-align: center;
+    color: rgb(236, 134, 219);
+    margin: 0;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background-image: url('http://picsum.photos/id/460/4476/2984/');
+    background-size: cover;
+
+    
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* Naudojam klases -> Pvz., h1.pagrindine-antraste {
     
 } */
 
-
 /* Daina stiliaus kodas: */
 
-
-
-
-
 /* Edvinas stiliaus kodas: */
-
-
-
-
 
 /* Ricardas stiliaus kodas: */

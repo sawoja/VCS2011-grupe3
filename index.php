@@ -2,40 +2,50 @@
 <!-- Juste -->
 
 <!-- Čia pagrindinio puslapio vidinė dalis -->
-<div class="main-page-photo">
-<h1>VCS restaurant</h1>
+
+<div class="container">
+    <div class="main-page-photo">
+        <h1>Some kind of gourmet restaurant</h1>
+    </div>
+
+ 
+
+    <div class="carousel">
+        <a class="carousel-item" href="contacts.php"><img src="https://picsum.photos/id/2/1000/800" 
+        data-toggle="tooltipped" data-position="bottom" data-tooltip="Contacts">Contacts >>></a>
+
+        <a class="carousel-item" href="about.php"><img src="https://picsum.photos/id/225/1000/800/" 
+        data-toggle="tooltipped" data-position="bottom" data-tooltip="About">About >>></a>
+
+        <a class="carousel-item" href="gallery.php"><img src="https://picsum.photos/id/292/1000/800"  
+        data-toggle="tooltipped" data-position="bottom" data-tooltip="Gallery">Gallery >>></a>
+        
+
+    
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
-
-<div class="carousel">
-    <a class="carousel-item" href="#one!"><img src="https://lorempixel.com/250/250/nature/1"></a>
-    <a class="carousel-item" href="#two!"><img src="https://lorempixel.com/250/250/nature/2"></a>
-    <a class="carousel-item" href="#three!"><img src="https://lorempixel.com/250/250/nature/3"></a>
-    <a class="carousel-item" href="#four!"><img src="https://lorempixel.com/250/250/nature/4"></a>
-    <a class="carousel-item" href="#five!"><img src="https://lorempixel.com/250/250/nature/5"></a>
-  </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

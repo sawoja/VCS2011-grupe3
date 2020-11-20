@@ -28,3 +28,13 @@
             </ul>
         </div>
     </nav>
+    <nav>
+        <div class="nav-wrapper-breadcrumbs">
+            <div class="col s12">
+                <a href="index.php" class="breadcrumb">Home</a>
+                <a href="about.php" class="breadcrumb">About</a>
+                <a href="gallery.php" class="breadcrumb">Gallery</a>
+                <a href="contacts.php" class="breadcrumb">Contacts</a>
+            </div>
+        </div>
+    </nav>
