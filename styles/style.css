@@ -42,9 +42,14 @@
     border-radius: 50%;
 }
 .main-page-media {
-margin-top: 50px;
+    margin-top: 10px;
     margin-bottom: 50px;
-justify-content: center;
+}
+.pug-picture {
+    text-align: center;
+    color: rgb(107, 6, 90);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
 }
 
 
