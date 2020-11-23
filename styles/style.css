@@ -71,7 +71,21 @@
 
 /* Daina stiliaus kodas: */
 
+.spinatu-skaidre {
+  position: relative;
+}
 
+.spinatu-skaidre h1 {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin: 0;
+  transform: translate(-50%, -50%);
+}
+
+.spinatu-pav {
+  width: 100%;
+}
 
 
 
