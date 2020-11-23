@@ -77,10 +77,13 @@
 
 .spinatu-skaidre h1 {
   position: absolute;
-  left: 50%;
-  top: 50%;
-  margin: 0;
+  left: 75%;
+  top: 40%;
+  margin: 50;
   transform: translate(-50%, -50%);
+  color: rgb(238, 222, 222);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
 }
 
 .spinatu-pav {
