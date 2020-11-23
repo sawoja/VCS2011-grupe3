@@ -93,6 +93,9 @@
 
 .spinatu-skaidre {
   position: relative;
+  filter: blur(1px);
+  filter: brightness(0.8)
+ 
 }
 
 .spinatu-skaidre h1 {
