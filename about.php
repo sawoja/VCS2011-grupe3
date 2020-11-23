@@ -22,15 +22,7 @@
             </div>
             <div class="col s12 m6 l3 center-align">
             <img class="responsive-img" src="images\Meniu(Gallery)\coffee.jpg">
-            </div>
-
-
-
-
-
-
-                
-                
+            </div>                
                 
                 
         </div>
