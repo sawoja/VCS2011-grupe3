@@ -14,9 +14,9 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
     margin: 0;
-    padding-top: 150px;
+    padding-top: 500px;
     padding-bottom: 150px;
-    background-image: url('http://picsum.photos/id/460/4476/2984/');
+    background-image: url('http://picsum.photos/id/460/3000/1984/');
     background-size: cover;
     background-position: center center;
     margin: none;
@@ -37,7 +37,6 @@
     margin-left: auto;
     margin-right: auto;
 }
-
 .nav-wrapper-header img {
     border-radius: 50%;
 }
@@ -51,8 +50,29 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
 }
-
-
+.team-flex {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 150px;
+}
+.team {
+    width: 30%;
+    height: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.team img {
+    border-radius: 50%;
+    width: 60%;
+}
+.meet-team {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
 
 
 
