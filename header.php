@@ -24,7 +24,7 @@
 
     <nav>
         <div class="nav-wrapper-header">
-        <img src="http://picsum.photos/id/63/50/" alt="Cup of coffee" >
+        <a class="home-logo" href="index.php"><img src="http://picsum.photos/id/63/50/">
             <ul id="nav-mobile" class="right hide-on-med-and-down">
                 
                 <li><a href="about.php">About</a></li>
@@ -35,6 +35,6 @@
     </nav>
 
     <div>
-        
+
     </div>
     

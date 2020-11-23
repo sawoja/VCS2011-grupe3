@@ -14,8 +14,8 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
     margin: 0;
-    padding-top: 500px;
-    padding-bottom: 150px;
+    padding-top: 250px;
+    padding-bottom: 10px;
     background-image: url('http://picsum.photos/id/460/3000/1984/');
     background-size: cover;
     background-position: center center;
@@ -118,26 +118,111 @@
 
 /* Edvinas stiliaus kodas: */
 
-.flex {
-    display: flex;
-    justify-content: space-between;
-    margin-top: 30px;
-    margin-bottom: 200px;
-}
 
-.box {
-    width: 30%;
-    height: 200px;
+.gallery{
+    padding: 1em 0;
+    float: left;
+    width: 50%;
+}
+@media screen and (max-width: 640px){
+    .gallery{
+      display: block;
+      width: 100%;
+    }
+}
+  
+@media screen and (min-width: 900px){
+    .gallery{
+      width: 33.33333%;
+    }
+}
+  
+.gallery .title{
+    color: #1a1a1a;
     text-align: center;
+    margin-bottom: 10px;
 }
-
-.box img {
-    border-radius: 50%;
-    width: 80%;
+  
+.content {
+    position: relative;
+    width: 90%;
+    max-width: 400px;
+    margin: auto;
+    overflow: hidden;
 }
-
-.box p {
-    background-color: transparent;
+  
+.content .content-overlay {
+    background: rgba(0,0,0,0.7);
+    position: absolute;
+    height: 99%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0;
+    -webkit-transition: all 0.4s ease-in-out 0s;
+    -moz-transition: all 0.4s ease-in-out 0s;
+    transition: all 0.4s ease-in-out 0s;
 }
-
+  
+.content:hover .content-overlay{
+    opacity: 1;
+}
+  
+.content-image{
+    width: 100%;
+}
+  
+.content-details {
+    position: absolute;
+    text-align: center;
+    padding-left: 1em;
+    padding-right: 1em;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    opacity: 0;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    -webkit-transition: all 0.3s ease-in-out 0s;
+    -moz-transition: all 0.3s ease-in-out 0s;
+    transition: all 0.3s ease-in-out 0s;
+}
+  
+.content:hover .content-details{
+    top: 50%;
+    left: 50%;
+    opacity: 1;
+}
+  
+.content-details h3{
+    color: #fff;
+    font-weight: 500;
+    letter-spacing: 0.15em;
+    margin-bottom: 0.5em;
+    text-transform: uppercase;
+}
+  
+.content-details p{
+    color: #fff;
+    font-size: 0.8em;
+}
+  
+.fadeIn-bottom{
+    top: 80%;
+}
+  
+.fadeIn-top{
+    top: 20%;
+}
+  
+.fadeIn-left{
+    left: 20%;
+}
+  
+.fadeIn-right{
+    left: 80%;
+}
 /* Ricardas stiliaus kodas: */
