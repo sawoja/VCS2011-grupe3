@@ -4,8 +4,8 @@
 <!-- Čia apie puslapio vidinė dalis -->
 
 <div class="center-align spinatu-skaidre">
-    <img class="spinatu-pav" src="images\Meniu(Gallery)\pasta.jpg">
-    <h1 class="center-align">We Are Gourmet Selection No 1</h1>
+    <img class="spinatu-pav" src="images\Meniu(Gallery)\chocolate.jpg">
+    <h1 class="center-align">Your Gourmet Selection No1</h1>
 </div>
     
 
