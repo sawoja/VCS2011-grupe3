@@ -68,29 +68,26 @@ justify-content: center;
 
 /* Edvinas stiliaus kodas: */
 
-div.gallery {
-    margin: 5px;
-    border: 1px solid #ccc;
-    float: left;
-    width: 180px;
+.flex {
     display: flex;
     justify-content: space-between;
-  }
-  
-  div.gallery:hover {
-    border: 1px solid #777;
-  }
-  
-  div.gallery img {
-    width: 100%;
-    height: auto;
-    display: flex;
-    justify-content: space-between;
-  }
-  
-  div.desc {
-    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 200px;
+}
+
+.box {
+    width: 30%;
+    height: 200px;
     text-align: center;
-  }
+}
+
+.box img {
+    border-radius: 50%;
+    width: 80%;
+}
+
+.box p {
+    background-color: transparent;
+}
 
 /* Ricardas stiliaus kodas: */
