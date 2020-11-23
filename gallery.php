@@ -5,33 +5,66 @@
 
 <!-- Čia galerijos puslapio vidinė dalis -->
 
+<div class="main-page-photo">
+    <h4>Menu</h4>
+</div>
+
 <div class="container">
 
-<div class="main-page-photo">
-        <h1>Menu</h1>
+
+    <div class="flex">
+        <div class="box">
+            <img src="images\Meniu(Gallery)\starter 1.jpg" alt="">
+            <h4>Food</h4>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        </div>
+        <div class="box">
+            <img src="images\Meniu(Gallery)\starter 1.jpg" alt="">
+            <h4>Food</h4>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        </div>
+        <div class="box">
+            <img src="images\Meniu(Gallery)\starter 1.jpg" alt="">
+            <h4>Food</h4>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        </div>
     </div>
 
-<div class="gallery">
-    <img src="https://picsum.photos/200" alt="1" width="200" height="200">
-  <div class="desc">Add a description of the image here</div>
-</div>
+    <div class="flex">
+        <div class="box">
+            <img src="images\Meniu(Gallery)\starter 1.jpg" alt="">
+            <h4>Food</h4>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        </div>
+        <div class="box">
+            <img src="images\Meniu(Gallery)\starter 1.jpg" alt="">
+            <h4>Food</h4>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        </div>
+        <div class="box">
+            <img src="images\Meniu(Gallery)\starter 1.jpg" alt="">
+            <h4>Food</h4>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        </div>
+    </div>
 
-<div class="gallery">
-    <img src="https://picsum.photos/200" alt="2" width="200" height="200">
-  <div class="desc">Add a description of the image here</div>
-</div>
-
-<div class="gallery">
-    <img src="https://picsum.photos/200" alt="3" width="200" height="200">
-  <div class="desc">Add a description of the image here</div>
-</div>
-
-<div class="gallery">
-<img src="https://picsum.photos/200" alt="4" width="200" height="200">
-<div class="desc">Add a description of the image here</div>
-
-
-</div>
+    <div class="flex">
+        <div class="box">
+            <img src="images\Meniu(Gallery)\starter 1.jpg" alt="">
+            <h4>Food</h4>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        </div>
+        <div class="box">
+            <img src="images\Meniu(Gallery)\starter 1.jpg" alt="">
+            <h4>Food</h4>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        </div>
+        <div class="box">
+            <img src="images\Meniu(Gallery)\starter 1.jpg" alt="">
+            <h4>Food</h4>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        </div>
+    </div>
 
 </div>
 
