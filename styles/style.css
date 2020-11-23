@@ -51,8 +51,6 @@
     font-style: italic;
 }
 .team-flex {
-    display: flex;
-    justify-content: space-between;
     margin-bottom: 150px;
 }
 .team {
@@ -73,8 +71,14 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
 }
-
-
+.mapsas {
+    margin-bottom: 50px;  
+}
+.kontaktai {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
 
 
 
