@@ -5,7 +5,7 @@
 
 <div class="container">
     <div class="main-page-photo">
-        <h1>Some kind of gourmet restaurant</h1>
+        <h1>Very Fancy Dining</h1>
     </div>
 
     <div class="row">
@@ -39,6 +39,8 @@
         <a data-fancybox="gallery" href="https://www.youtube.com/watch?v=aa6GcVY7Ijg"><img src="images/play.png"></a>
 
     </div>
+
+    
 
 
 
