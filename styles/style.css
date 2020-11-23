@@ -93,20 +93,21 @@
 
 .spinatu-skaidre {
   position: relative;
-  filter: blur(1px);
-  filter: brightness(0.8)
+  filter: blur(0px);
+  filter: brightness(1);
  
 }
 
 .spinatu-skaidre h1 {
   position: absolute;
-  left: 75%;
-  top: 40%;
+  left: 80%;
+  top: 30%;
   margin: 50;
   transform: translate(-50%, -50%);
-  color: rgb(238, 222, 222);
+  color: rgb(241, 232, 238);
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-style: italic;
+  font-style: bold;
 }
 
 .spinatu-pav {
