@@ -24,21 +24,17 @@
 
     <nav>
         <div class="nav-wrapper-header">
-        <img src="http://picsum.photos/id/63/50/" alt="Cup of coffee" >
+        <a class="home-logo" href="index.php"><img src="http://picsum.photos/id/63/50/">
             <ul id="nav-mobile" class="right hide-on-med-and-down">
-                <li><a href="index.php">Home</a></li>
+                
                 <li><a href="about.php">About</a></li>
                 <li><a href="gallery.php">Menu</a></li>
+                <li><a href="contacts.php">Contacts</a></li>
             </ul>
         </div>
     </nav>
-    <nav>
-        <div class="nav-wrapper-breadcrumbs">
-            <div class="col s12">
-                <a href="index.php" class="breadcrumb">Home</a>
-                <a href="about.php" class="breadcrumb">About</a>
-                <a href="gallery.php" class="breadcrumb">Menu</a>
-                <a href="contacts.php" class="breadcrumb">Contacts</a>
-            </div>
-        </div>
-    </nav>
+
+    <div>
+
+    </div>
+    

@@ -14,9 +14,9 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
     margin: 0;
-    padding-top: 150px;
-    padding-bottom: 150px;
-    background-image: url('http://picsum.photos/id/460/4476/2984/');
+    padding-top: 250px;
+    padding-bottom: 10px;
+    background-image: url('http://picsum.photos/id/460/3000/1984/');
     background-size: cover;
     background-position: center center;
     margin: none;
@@ -37,17 +37,42 @@
     margin-left: auto;
     margin-right: auto;
 }
-
 .nav-wrapper-header img {
     border-radius: 50%;
 }
 .main-page-media {
-margin-top: 50px;
+    margin-top: 10px;
     margin-bottom: 50px;
-justify-content: center;
 }
-
-
+.pug-picture {
+    text-align: center;
+    color: rgb(107, 6, 90);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.team-flex {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 150px;
+}
+.team {
+    width: 30%;
+    height: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.team img {
+    border-radius: 50%;
+    width: 60%;
+}
+.meet-team {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
 
 
 
@@ -65,6 +90,28 @@ justify-content: center;
 } */
 
 /* Daina stiliaus kodas: */
+
+.spinatu-skaidre {
+  position: relative;
+}
+
+.spinatu-skaidre h1 {
+  position: absolute;
+  left: 75%;
+  top: 40%;
+  margin: 50;
+  transform: translate(-50%, -50%);
+  color: rgb(238, 222, 222);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+
+.spinatu-pav {
+  width: 100%;
+}
+
+
+
 
 /* Edvinas stiliaus kodas: */
 
