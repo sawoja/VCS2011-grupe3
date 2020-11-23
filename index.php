@@ -3,16 +3,12 @@
 
 <!-- Čia pagrindinio puslapio vidinė dalis -->
 
-<div class="container">
     <div class="main-page-photo">
         <h1>Very Fancy Dining</h1>
     </div>
 
-    <div class="row">
-        <div class="col s12 m4 l2">
-            <p></p>
-        </div>
-    </div>
+    
+<div class="container">
 
     <div class="some-main-text">
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium saepe a voluptatem, eum aspernatur officiis ratione dolor, laboriosam vitae minus minima dicta quam porro iusto dignissimos ex error voluptatum unde. Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium saepe a voluptatem, eum aspernatur officiis ratione dolor, laboriosam vitae minus minima dicta quam porro iusto dignissimos ex error voluptatum unde.</p>
