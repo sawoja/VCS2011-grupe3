@@ -15,7 +15,7 @@
 
 
 
-    <title>Projekto pavadinimas</title>
+    <title>Very Fancy Dining</title>
 </head>
 
 <body>
