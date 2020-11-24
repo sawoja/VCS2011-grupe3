@@ -94,6 +94,8 @@
     padding-right: 5px;
     padding-left: 5px;
     margin-bottom: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
 }
 .video {
     border-style: dotted;
@@ -106,13 +108,43 @@
     padding-left: 5px;
     border-spacing: 10px;
     margin-bottom: 15px;
-
 }
-
-
-
-
-
+.team-flex {
+    border-style: dotted;
+    border-width:2px;
+    border-color: rgb(216, 122, 180);
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-spacing: 10px;
+    margin-bottom: 15px;
+}
+.kontaktai {
+    border-style: dotted;
+    border-width:2px;
+    border-color: rgb(216, 122, 180);
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-spacing: 10px;
+    margin-bottom: 15px;
+}
+.nav-wrapper-breadcrumbs {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.nav-wrapper-header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;  
+}
+.page-footer {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
 
 
 
