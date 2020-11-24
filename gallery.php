@@ -24,7 +24,7 @@
     </div>
 
     <div class="some-main-text">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium saepe a voluptatem, eum aspernatur officiis ratione dolor, laboriosam vitae minus minima dicta quam porro iusto dignissimos ex error voluptatum unde. Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium saepe a voluptatem, eum aspernatur officiis ratione dolor, laboriosam vitae minus minima dicta quam porro iusto dignissimos ex error voluptatum unde.</p>
+        <p>Our mission is to be the most sustainable restaurant in Vilnius by sourcing our ingredients locally, supplementing produce with herbs grown on our rooftop garden, and giving back to the community through urban farming education.</p>
     </div>
 
     <div class="gallery">
