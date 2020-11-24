@@ -20,17 +20,12 @@
     background-size: cover;
     background-position: center center;
     margin: none;
-
-
-    
 }
 
 .some-main-text {
     text-align: justify;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
-
-
 }
 .container {
     width: 70%;
@@ -44,7 +39,7 @@
     margin-top: 10px;
     margin-bottom: 50px;
 }
-.pug-picture {
+.video {
     text-align: center;
     color: rgb(107, 6, 90);
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -79,8 +74,40 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
 }
+.some-main-text p {
+    border-style: dotted;
+    border-width:2px;
+    border-color: rgb(216, 122, 180);
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.carousel {
+    border-style: dotted;
+    border-width:2px;
+    border-color: rgb(216, 122, 180);
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    margin-bottom: 15px;
+}
+.video {
+    border-style: dotted;
+    border-width:2px;
+    border-color: rgb(216, 122, 180);
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-spacing: 10px;
+    margin-bottom: 15px;
 
-
+}
 
 
 
