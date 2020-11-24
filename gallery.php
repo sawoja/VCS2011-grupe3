@@ -15,16 +15,24 @@
         </div>
     </div>
 </nav>
-
-
-<div class="container">
-<body>
-    <div class="main-page-photo">
+<div class="main-page-photo">
         <h4>Menu</h4>
     </div>
 
+<div class="container">
+<body>
+
+
     <div class="some-main-text">
         <p>Our mission is to be the most sustainable restaurant in Vilnius by sourcing our ingredients locally, supplementing produce with herbs grown on our rooftop garden, and giving back to the community through urban farming education.</p>
+    </div>
+
+    <div class="some-main-text">
+        <p>Food as it should be. Food should taste good. It should feel good. It should do good things for you and the world around you.</p>
+    </div>
+
+    <div class="some-main-text">
+        <p>We believe the choices we make about what we eat, where it comes from and how it’s prepared have a direct and powerful impact on the health of individuals, communities and the environment.</p>
     </div>
 
     <div class="gallery">
