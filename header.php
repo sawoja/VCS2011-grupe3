@@ -16,6 +16,11 @@
 
 
     <title>Very Fancy Dining</title>
+    <div class="running-line">
+        <marquee>
+            Welcome to our humble dining page. Enjoy! :)
+        </marquee>
+    </div>
 </head>
 
 <body>
@@ -24,17 +29,16 @@
 
     <nav>
         <div class="nav-wrapper-header">
-        <a class="home-logo" href="index.php"><img src="http://picsum.photos/id/63/50/">
-            <ul id="nav-mobile" class="right hide-on-med-and-down">
-                
-                <li><a href="about.php">About</a></li>
-                <li><a href="gallery.php">Menu</a></li>
-                <li><a href="contacts.php">Contacts</a></li>
-            </ul>
+            <a class="home-logo" href="index.php"><img src="http://picsum.photos/id/63/50/">
+                <ul id="nav-mobile" class="right hide-on-med-and-down">
+
+                    <li><a href="about.php">About</a></li>
+                    <li><a href="gallery.php">Menu</a></li>
+                    <li><a href="contacts.php">Contacts</a></li>
+                </ul>
         </div>
     </nav>
 
     <div>
 
     </div>
-    
